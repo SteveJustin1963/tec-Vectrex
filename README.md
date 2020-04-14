@@ -12,10 +12,10 @@ Vectrex display for TEC-1, well the start of one
   * drive cro xy inputs for visualization, 
     * try oscilloscope music, 
     * stage 2 try forth code to create similar effects
-    * drive cct for analog devices 
-      * eg; tv or crt xy yoke coils, 
-      * drive stepper motors, 
-      * coil drive for xy laser pointer
+  * drive cct for analog devices 
+    * eg; tv or crt xy yoke coils, 
+    * drive stepper motors, 
+    * coil drive for xy laser pointer
   *
 * add 2 adc conversion feed into latch, use resistor array, stage 2 try a adc chip around $8
 *
