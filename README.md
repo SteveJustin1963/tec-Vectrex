@@ -7,18 +7,22 @@ https://easyeda.com/editor#id=06fde9941fd74225a6f9060f40bda28a
 * expand visual display, 
   * add 2 extra 7 seg leds, run off 2 free ports
   * add integrated 8x8 led matrix, piggy back off exiting led muxing
-* add 2 x dac ccts, piggy back off led display lines
-  * add stereo sound
-  * try simple resistor array
-  * try a dac chip around $4
+* add stereo sound
+* simple dac 
+  * resistor array, piggyback off 7 seg leds
+  * dac chip $4
   * drive cro xy inputs for visualization
-  * try oscilloscope music, https://oscilloscopemusic.com/
-  * try forth code to create similar effects
-  * drive cct for analog devices 
-    * tv or crt xy yoke coils 
-    * drive stepper motors
-    * coil drive for xy laser pointer
-* add 2 x adc ccts 
-  * try simple resistor array
-  * try a adc chip around $8
-  * try capactive touch and slide sensor
+  * ref- oscilloscope music, https://oscilloscopemusic.com/
+  * asm/forth code, create similar effects
+  * drive analog
+    * xy yoke coils 2 monitor/tv/crt  
+    * xy voice coil 2 laser pointer
+    * dc motor
+    * rf
+* simple adc 
+  * resistor array
+  * analog in, audio, etc
+  * adc chip $8
+* 8x8x8 cube
+* POV, circular spin, 16 leds with serial shift registers
+* Touch keys-single, linear, matrix, circular
