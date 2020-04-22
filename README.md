@@ -28,6 +28,6 @@ https://easyeda.com/editor#id=06fde9941fd74225a6f9060f40bda28a
   * resistor array
   * analog in, audio, etc
   * adc chip $8
-* 8x8x8 cube
-* POV, circular spin, 16 leds with serial shift registers
-* Touch keys-single, linear, matrix, circular
+* Cube https://github.com/SteveJustin1963/tec-8x8x8
+* POV, circular spin, 16 leds with serial shift registers https://github.com/SteveJustin1963/tec-POV
+* Touch keys-single, linear, matrix, circular 
