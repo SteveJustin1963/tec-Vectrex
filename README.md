@@ -12,7 +12,12 @@ https://easyeda.com/editor#id=06fde9941fd74225a6f9060f40bda28a
   * resistor array, piggyback off 7 seg leds
   * dac chip $4
   * drive cro xy inputs for visualization
-  * ref- oscilloscope music, https://oscilloscopemusic.com/
+  * ref- oscilloscope music, 
+    * https://oscilloscopemusic.com/
+    * https://oscilloscopemusic.com/software.php
+    * https://oscilloscopemusic.com/oscistudio.php
+    * https://www.blender.org/ or simialr
+    * https://puredata.info/
   * asm/forth code, create similar effects
   * drive analog
     * xy yoke coils 2 monitor/tv/crt  
