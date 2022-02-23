@@ -34,6 +34,8 @@ https://easyeda.com/editor#id=06fde9941fd74225a6f9060f40bda28a
 
 ## Iterate
 - https://en.wikipedia.org/wiki/Scanimate
+- video synthesizer
+- 
 
 ## ref
 
