@@ -2,12 +2,11 @@
 A Vectrex display for TEC-1
 
 The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering 1982.
-The Vectrex was praised for its software library, unique graphical capabilities, and built-in monitor. It was the first console to have a 3D-based peripheral. The computer controls the vector generator, which makes the screen drawings. The computer controls the integration rates using a digital-to-analog converter, and the monitor uses voltage ramps to steer the electron beam. The Vectrex's cathode ray tube is a standard Samsung model 240RB40 manufactured for small black/white television sets. It uses a computer-controlled integrator and linear amplifier to direct the internal electron beam in a vector pattern. The 3-D Imager, invented by John Ross, turns the 2-D black-and-white images drawn by the Vectrex into a color 3-D experience by spinning a disk in front of the viewer's eyes. The software synchronizes the disk rotation to the software frame rate. The light pen allows the user to create images and to indicate on the screen. It uses a photo-detector to track the pen's location and to change its pattern size as the pen moves.
-
+The Vectrex was praised for its software library, unique graphical capabilities, and built-in monitor. It was the first console to have a 3D-based peripheral. The computer controls the vector generator, which makes the screen drawings. The computer controls the integration rates using a digital-to-analog converter, and the monitor uses voltage ramps to steer the electron beam. The Vectrex's cathode ray tube is a standard Samsung model 240RB40 manufactured for small black/white television sets. It uses a computer-controlled integrator and linear amplifier to direct the internal electron beam in a vector pattern. The light pen allows the user to create images and to indicate on the screen. It uses a photo-detector to track the pen's location and to change its pattern size as the pen moves.
 
 
 ### cct
-https://easyeda.com/editor#id=06fde9941fd74225a6f9060f40bda28a
+- https://easyeda.com/editor#id=06fde9941fd74225a6f9060f40bda28a
 
 
 ## project
