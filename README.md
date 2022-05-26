@@ -9,7 +9,7 @@ The Vectrex was praised for its software library, unique graphical capabilities,
 - https://easyeda.com/editor#id=06fde9941fd74225a6f9060f40bda28a
 
 
-## project
+### project
 get the tec1 to drive two DAC into the xy of a cro or crt tube coil deflector. also modulate the beam on and off.
 with code draw the vector graphics, use asm and MINT.
 
@@ -19,7 +19,7 @@ with code draw the vector graphics, use asm and MINT.
 - off 8x8 led matrix, piggy back off exiting led muxing
 
 
-## Iterate
+### Iterate
 - make oscilloscope music and drive the vectrex display, need two audio channels 
   - https://oscilloscopemusic.com/
   - https://oscilloscopemusic.com/software.php
@@ -38,7 +38,7 @@ with code draw the vector graphics, use asm and MINT.
 - Touch keys-single, linear, matrix, circular 
 
 
-## ref
+### ref
 - https://en.wikipedia.org/wiki/Scanimate
 - https://www.redsharknews.com/scanimate-the-granddaddy-of-realtime-motion-graphics
 - video synthesizer
